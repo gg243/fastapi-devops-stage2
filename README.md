@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI Book Management API
 
 ## Overview
@@ -144,3 +145,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For support, please open an issue in the GitHub repository.
+=======
+# fastapi-devops-stage2
+>>>>>>> b9889139886989cf001186e2f1a458aafd35f861
